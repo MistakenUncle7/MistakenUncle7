@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Santiago+Avila+Torruco+%F0%9F%92%BB"/>
+</div>
+
 # 💫 About Me:
 I'm currently pursuing a Bachelor's degree in Engineering in Data Intelligence and Cybersecurity at Universidad Panamericana. My primary focus is on cybersecurity, which I'm truly passionate about, but I've also discovered the immense value of data intelligence throughout my studies. I love exploring how both fields intersect, providing powerful insights to enhance security measures and drive informed decision-making.<br><br>On this GitHub, you'll find some of my projects related to programming, data analysis, and cybersecurity. I'm always looking to expand my skills and collaborate on exciting new challenges. Feel free to connect or check out my work below!
 
